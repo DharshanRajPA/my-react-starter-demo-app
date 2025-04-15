@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage":"https://DharshanRajPA.github.io/my-react-starter-demo-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
